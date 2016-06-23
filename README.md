@@ -1,5 +1,4 @@
-# hello-word-
-The first code that I had wroten.
+//The first code that I had wroten.
 #include  <iostream>
 using namespace std;
 int main()
